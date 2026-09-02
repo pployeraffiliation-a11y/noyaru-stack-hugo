@@ -1,6 +1,6 @@
 +++
-title = "A propos du site de test Hugo"
-description = "Page temoin du site fixture Hugo : elle est saine et doit rester rigoureusement intacte apres l'application de la correction automatique."
+title = "À propos : notre site de test Hugo pour vos démos et essais SEO"
+description = "Découvrez le site de test Hugo : une page témoin saine servant de référence pour valider vos corrections automatiques. Explorez-la dès maintenant."
 canonical = "https://noyaru-stack-hugo.netlify.app/a-propos/"
 +++
 
