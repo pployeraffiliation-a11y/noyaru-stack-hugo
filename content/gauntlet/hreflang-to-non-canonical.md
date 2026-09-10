@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Page de test pour démontrer une anomalie spécifique dans le parcours d'obstacles Noyaru." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-http/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang vers une page non canonique - Noyaru" />
