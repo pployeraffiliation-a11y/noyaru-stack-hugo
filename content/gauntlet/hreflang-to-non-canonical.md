@@ -13,7 +13,7 @@ raw_head = '''
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang vers une page non canonique - Noyaru" />
   <meta property="og:description" content="Page de test pour démontrer une anomalie spécifique dans le parcours d'obstacles Noyaru." />
-  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
+  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-http/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Hreflang vers une page non canonique - Noyaru" />
