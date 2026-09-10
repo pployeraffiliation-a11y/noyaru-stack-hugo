@@ -1,20 +1,20 @@
 +++
 url = "/gauntlet/double-slash/"
-title = 'Page de test du parcours d obstacles Noyaru'
+title = 'Page de test unique du parcours d obstacles Noyaru'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : double_slash_in_url — lien interne avec une double barre. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Page de test unique du parcours d'obstacles Noyaru</title>
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive pour tous les participants." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Page de test unique du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive pour tous les participants." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Page de test unique du parcours d'obstacles Noyaru" />
   <meta name="twitter:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive pour tous les participants." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
