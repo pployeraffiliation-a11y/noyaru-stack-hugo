@@ -3,6 +3,7 @@ url = "/gauntlet/no-canonical-a/"
 title = 'Deux pages jumelles sans canonical declare'
 html_attrs = ' lang="fr"'
 raw_head = '''
+  <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <!-- FAMILLE VISEE : duplicate_pages_without_canonical — jumelle de no-canonical-b, aucune des deux ne declare de canonical. -->
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages jumelles sans canonical declare</title>
