@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-a. -->
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages qui portent exactement le meme titre pour le test</title>
-  <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-b/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
