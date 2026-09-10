@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : double_slash_in_url — lien interne avec une double barre. -->
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
-  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive, conçue pour tester vos compétences et votre agilité." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
