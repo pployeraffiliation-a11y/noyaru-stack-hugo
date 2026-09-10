@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive, conçue pour les amateurs de défis. Apprenez-en plus sur les spécificités de cette" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang sans attribut HTML lang - Noyaru" />
