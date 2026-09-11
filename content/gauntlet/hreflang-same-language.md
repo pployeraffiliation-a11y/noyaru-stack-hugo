@@ -13,7 +13,7 @@ raw_head = '''
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru - Hreflang Same Language" />
   <meta property="og:description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant une anomalie spécifique dans le crawl." />
-  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
+  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-http/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru - Hreflang Same Language" />
