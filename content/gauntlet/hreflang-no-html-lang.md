@@ -10,6 +10,7 @@ raw_head = '''
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Test hreflang declare sans attribut lang sur html" />
   <meta property="og:description" content="Page de test hreflang declare correctement mais dont la balise html ne porte aucun attribut lang, afin d'isoler cette anomalie precise au crawl." />
