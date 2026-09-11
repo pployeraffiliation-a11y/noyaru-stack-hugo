@@ -1,7 +1,7 @@
 +++
 url = "/gauntlet/html-lang-missing/"
 title = 'Page de test du parcours d obstacles Noyaru'
-html_attrs = ''
+html_attrs = 'lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : html_lang_attribute_missing — «html» sans attribut lang. -->
   <meta name="viewport" content="width=device-width" />
