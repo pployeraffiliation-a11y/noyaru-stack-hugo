@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/noindex-long/"
-title = 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond'
+title = 'Un titre volontairement trop long pour la fenetre visee par le SEO'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : title_too_long_not_indexable + meta_description_too_long_not_indexable — page noindex portant un titre et une description hors plafond. -->
