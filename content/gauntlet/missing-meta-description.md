@@ -10,6 +10,7 @@ raw_head = '''
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:description" content="Page de test du parcours d'obstacles Noyaru : cette fixture illustre une anomalie SEO unique par page afin de valider le crawler du site." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
