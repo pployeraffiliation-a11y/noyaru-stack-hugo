@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/title-too-short/"
-title = 'Test'
+title = 'Test de performance du gauntlet Noyaru Stack 2023 : analyse complète'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : title_too_short — titre de moins de 15 caracteres. -->
