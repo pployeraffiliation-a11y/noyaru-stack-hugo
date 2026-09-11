@@ -1,20 +1,20 @@
 +++
 url = "/gauntlet/double-slash/"
-title = 'Page de test du parcours d obstacles Noyaru'
+title = 'Double barre dans une URL interne : test de crawl'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : double_slash_in_url — lien interne avec une double barre. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Double barre dans une URL interne : test de crawl</title>
   <meta name="description" content="Page de test dediee au cas de la double barre dans une URL interne : un lien avec un double slash sert a declencher cette anomalie precise au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Double barre dans une URL interne : test de crawl" />
   <meta property="og:description" content="Page de test dediee au cas de la double barre dans une URL interne : un lien avec un double slash sert a declencher cette anomalie precise au crawl." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Double barre dans une URL interne : test de crawl" />
   <meta name="twitter:description" content="Page de test dediee au cas de la double barre dans une URL interne : un lien avec un double slash sert a declencher cette anomalie precise au crawl." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
