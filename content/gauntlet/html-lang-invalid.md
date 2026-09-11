@@ -1,7 +1,7 @@
 +++
 url = "/gauntlet/html-lang-invalid/"
 title = 'Page de test du parcours d obstacles Noyaru'
-html_attrs = ' lang="francais"'
+html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : html_lang_attribute_invalid — attribut lang syntaxiquement invalide. -->
   <meta name="viewport" content="width=device-width" />
