@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Page du parcours d'obstacles Noyaru ciblant un code hreflang mal forme (soulignement au lieu du tiret), pour tester la detection des annotations de langue" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
   <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Test hreflang invalide (soulignement) — Noyaru" />
   <meta property="og:description" content="Page du parcours d'obstacles Noyaru ciblant un code hreflang mal forme (soulignement au lieu du tiret), pour tester la detection des annotations de langue invalides." />
