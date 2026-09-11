@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/title-too-short/"
-title = 'Test'
+title = 'Test : guide complet, méthodes et exemples pour bien débuter'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : title_too_short — titre de moins de 15 caracteres. -->
