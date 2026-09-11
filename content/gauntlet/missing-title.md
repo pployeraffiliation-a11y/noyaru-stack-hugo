@@ -4,6 +4,7 @@ title = 'Parcours'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : missing_title — aucun titre declare. -->
+  <title>Parcours d'obstacles — Fixture SEO Hugo</title>
   <meta name="viewport" content="width=device-width" />
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-title/" />
