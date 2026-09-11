@@ -13,11 +13,11 @@ raw_head = '''
   <meta property="og:title" content="Hreflang Invalid - Parcours d Obstacles Noyaru" />
   <meta property="og:description" content="Page de test pour les annotations hreflang invalides dans le parcours d'obstacles Noyaru." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
-  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" alt="Image de l'aperçu de la page Hreflang Invalid" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Hreflang Invalid - Parcours d Obstacles Noyaru" />
   <meta name="twitter:description" content="Page de test pour les annotations hreflang invalides dans le parcours d'obstacles Noyaru." />
-  <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" alt="Image de l'aperçu de la page Hreflang Invalid" />
 '''
 raw_body = '''
   <h1>Parcours d'obstacles</h1>
