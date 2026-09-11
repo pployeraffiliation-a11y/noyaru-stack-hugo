@@ -9,7 +9,7 @@ raw_head = '''
   <meta name="description" content="Page de test du parcours d'obstacles avec deux annotations hreflang pour le meme code de langue pointant vers deux pages differentes." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
-  <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-other/" />
+  <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-http/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang meme langue vers deux pages differentes" />
   <meta property="og:description" content="Page de test du parcours d'obstacles avec deux annotations hreflang pour le meme code de langue pointant vers deux pages differentes." />
