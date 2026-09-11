@@ -7,6 +7,7 @@ raw_head = '''
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <meta name="robots" content="noindex, follow" />
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
