@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/hreflang-no-html-lang/"
-title = 'Page de test du parcours d obstacles Noyaru'
+title = 'Page de test du parcours d obstacles Noyaru - Double Slash'
 html_attrs = ''
 raw_head = '''
   <!-- FAMILLE VISEE : hreflang_defined_but_html_lang_missing — hreflang declare mais «html» sans attribut lang. -->
