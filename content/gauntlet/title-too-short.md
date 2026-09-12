@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/title-too-short/"
-title = 'Test'
+title = 'Test de performance du Gauntlet : analyse et résultats 2023'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : title_too_short — titre de moins de 15 caracteres. -->
