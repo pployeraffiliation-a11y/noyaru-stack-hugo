@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Page de test pour démontrer les problèmes de hreflang sans attribut lang." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang sans attribut lang - Noyaru" />
