@@ -12,7 +12,7 @@ raw_head = '''
   <meta property="og:title" content="Titre unique pour la page duplicate-a" />
   <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
-  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Titre unique pour la page duplicate-a" />
   <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
