@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : title_too_long_not_indexable + meta_description_too_long_not_indexable — page noindex portant un titre et une description hors plafond. -->
   <meta name="viewport" content="width=device-width" />
   <title>Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond</title>
-  <meta name="description" content="Une meta description volontairement tres longue, ecrite pour depasser le plafond de cent soixante caracteres retenu par le crawler, afin de declencher la famille des descriptions trop longues sur une page non indexable." />
+  <meta name="description" content="Une meta description trop longue pour dépasser le plafond de 160 caractères, afin de déclencher des descriptions non indexables sur cette page." />
   <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-long/" />
   <meta property="og:type" content="article" />
