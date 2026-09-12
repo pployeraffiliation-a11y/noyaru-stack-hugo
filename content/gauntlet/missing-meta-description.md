@@ -3,6 +3,7 @@ url = "/gauntlet/missing-meta-description/"
 title = 'Page de test du parcours d obstacles Noyaru'
 html_attrs = ' lang="fr"'
 raw_head = '''
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru, une expérience unique et captivante pour les amateurs de défis. Découvrez les obstacles et relevez le défi !" />
   <!-- FAMILLE VISEE : meta_description_too_short_indexable — aucune meta description sur une page indexable. -->
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
