@@ -8,6 +8,7 @@ raw_head = '''
   <title>Page de test unique du parcours d'obstacles Noyaru - Double Slash</title>
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et immersive, conçue pour les amateurs de défis. Apprenez-en plus sur les spécificités de ce" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test unique du parcours d'obstacles Noyaru - Double Slash" />
