@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-b : meme titre ET meme description. -->
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages qui portent exactement le meme titre pour le test</title>
-  <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="description" content="Cette page illustre un parcours d'obstacles unique pour le test SEO." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
