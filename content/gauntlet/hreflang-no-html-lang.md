@@ -1,7 +1,7 @@
 +++
 url = "/gauntlet/hreflang-no-html-lang/"
 title = 'Hreflang declare sans attribut lang sur html — Noyaru'
-html_attrs = ''
+html_attrs = 'lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : hreflang_defined_but_html_lang_missing — hreflang declare mais «html» sans attribut lang. -->
   <meta name="viewport" content="width=device-width" />
