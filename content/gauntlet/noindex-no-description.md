@@ -6,6 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : missing_meta_description — page noindex ne declarant aucune meta description. -->
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru servant a provoquer une anomalie SEO unique et a valider le comportement de l'audit technique." />
   <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:type" content="article" />
