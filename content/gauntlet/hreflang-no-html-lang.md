@@ -10,6 +10,7 @@ raw_head = '''
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang declare sans attribut lang sur html — Noyaru" />
   <meta property="og:description" content="Cas hreflang declare mais element html sans attribut lang : demonstration de cette anomalie precise dans le parcours d'obstacles Noyaru." />
