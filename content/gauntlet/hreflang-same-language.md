@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Cette page declare deux annotations hreflang pour le meme code de langue vers deux URL differentes, afin de tester la detection de ce conflit au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Conflit hreflang : deux pages pour la meme langue" />
   <meta property="og:description" content="Cette page declare deux annotations hreflang pour le meme code de langue vers deux URL differentes, afin de tester la detection de ce conflit au crawl." />
