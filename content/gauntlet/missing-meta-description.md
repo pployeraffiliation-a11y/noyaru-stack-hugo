@@ -5,6 +5,7 @@ html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : meta_description_too_short_indexable — aucune meta description sur une page indexable. -->
   <meta name="viewport" content="width=device-width" />
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru servant a valider le comportement du crawler sur une page indexable dotee d'une meta description." />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
   <meta property="og:type" content="article" />
