@@ -4,6 +4,7 @@ title = 'Page de test du parcours d obstacles Noyaru'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : viewport_not_set — aucune meta viewport. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/viewport-not-set/" />
