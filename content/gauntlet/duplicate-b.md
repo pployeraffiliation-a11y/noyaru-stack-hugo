@@ -1,11 +1,11 @@
 +++
 url = "/gauntlet/duplicate-b/"
-title = 'Deux pages qui portent exactement le meme titre pour le test'
+title = 'Page B du parcours d obstacles : test de titres dupliques'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-a. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Page B du parcours d obstacles : test de titres dupliques</title>
   <meta name="description" content="Page B du parcours d'obstacles : cette variante possede une meta description unique pour verifier la resolution des doublons au crawl SEO." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-b/" />
   <meta property="og:type" content="article" />
