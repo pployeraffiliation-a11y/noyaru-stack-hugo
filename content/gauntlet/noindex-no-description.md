@@ -16,6 +16,7 @@ raw_head = '''
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:description" content="Page de test du parcours d'obstacles Noyaru servant a provoquer une anomalie SEO unique et a valider le comportement de l'audit technique." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
 raw_body = '''
