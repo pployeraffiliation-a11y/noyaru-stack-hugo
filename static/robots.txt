@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noyaru-stack-hugo.netlify.app/sitemap.xml
