@@ -8,7 +8,7 @@ raw_head = '''
   <title>Hreflang Invalid : Test du parcours d'obstacles Noyaru</title>
   <meta name="description" content="Découvrez les spécificités du parcours d'obstacles Noyaru, où un point précis nécessite une attention particulière pour le crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
-  <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
+  <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang Invalid : Test du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Découvrez les spécificités du parcours d'obstacles Noyaru, où un point précis nécessite une attention particulière pour le crawl." />
