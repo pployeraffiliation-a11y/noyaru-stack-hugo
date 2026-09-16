@@ -5,12 +5,13 @@ html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_pages_without_canonical — jumelle de no-canonical-a. -->
   <meta name="viewport" content="width=device-width" />
+  <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <title>Deux pages jumelles sans canonical declare</title>
   <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
   <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
-  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-b/" />
+  <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Deux pages jumelles sans canonical declare" />
