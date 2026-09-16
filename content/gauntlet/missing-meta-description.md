@@ -3,7 +3,7 @@ url = "/gauntlet/missing-meta-description/"
 title = 'Page de test du parcours d obstacles Noyaru'
 html_attrs = ' lang="fr"'
 raw_head = '''
-  <!-- FAMILLE VISEE : meta_description_too_short_indexable — aucune meta description sur une page indexable. -->
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante pour tous les amateurs de défis. Rejoignez-nous dès maintenant !" />
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
