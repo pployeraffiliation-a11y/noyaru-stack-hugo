@@ -4,7 +4,7 @@ title = "Blog du site de test Hugo"
 # page declares as canonical a URL that redirects away. TOML front matter on purpose: the value
 # is an ASSIGNMENT (`canonical = "..."`), the form the rewriter could not read before 2026-08-29.
 description = "Index du blog du site fixture Hugo, servant a verifier que la correction du canonical ne touche ni le template partage ni les autres pages."
-canonical = "https://noyaru-stack-hugo.netlify.app/blog"
+canonical = "https://noyaru-stack-hugo.netlify.app/blog/"
 +++
 
 Articles.
