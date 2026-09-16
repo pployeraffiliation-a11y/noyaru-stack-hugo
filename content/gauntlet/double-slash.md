@@ -12,7 +12,7 @@ raw_head = '''
   <meta property="og:title" content="Double Slash : Test du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique qui met en avant les défis à relever dans un environnement captivant." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
-  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" alt="Image de l'og" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Double Slash : Test du parcours d'obstacles Noyaru" />
   <meta name="twitter:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique qui met en avant les défis à relever dans un environnement captivant." />
