@@ -10,6 +10,7 @@ raw_head = '''
   <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:type" content="article" />
+  <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une page de test pour illustrer le cas noindex sans description." />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
