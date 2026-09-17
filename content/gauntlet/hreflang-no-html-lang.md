@@ -1,22 +1,22 @@
 +++
 url = "/gauntlet/hreflang-no-html-lang/"
-title = 'Page de test du parcours d obstacles Noyaru'
+title = 'Hreflang sans attribut lang dans le parcours Noyaru'
 html_attrs = ''
 raw_head = '''
   <!-- FAMILLE VISEE : hreflang_defined_but_html_lang_missing — hreflang declare mais «html» sans attribut lang. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Hreflang sans attribut lang dans le parcours Noyaru</title>
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, avec un focus sur le cas des hreflang sans attribut lang, pour une expérience unique et ciblée." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Hreflang sans attribut lang dans le parcours Noyaru" />
   <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, avec un focus sur le cas des hreflang sans attribut lang, pour une expérience unique et ciblée." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Hreflang sans attribut lang dans le parcours Noyaru" />
   <meta name="twitter:description" content="Découvrez le parcours d'obstacles Noyaru, avec un focus sur le cas des hreflang sans attribut lang, pour une expérience unique et ciblée." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
