@@ -8,6 +8,7 @@ raw_head = '''
   <title>Erreur hreflang : cas d annotation invalide Noyaru</title>
   <meta name="description" content="Cette page traite des erreurs hreflang, illustrant un cas spécifique pour la famille visée au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
   <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-invalid/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Erreur hreflang : cas d annotation invalide Noyaru" />
