@@ -9,7 +9,6 @@ raw_head = '''
   <meta name="description" content="Cette page traite du parcours d'obstacles avec un cas de hreflang same language, illustrant un point précis pour la famille visée au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-same-language/" />
-  <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-relay/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang same language : parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
