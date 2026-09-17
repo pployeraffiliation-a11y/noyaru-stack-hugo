@@ -9,6 +9,7 @@ raw_head = '''
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, avec un focus sur le cas des hreflang sans attribut lang, pour une expérience unique et ciblée." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang sans attribut lang dans le parcours Noyaru" />
