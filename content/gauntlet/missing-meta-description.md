@@ -14,6 +14,7 @@ raw_head = '''
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et stimulante pour tous les niveaux. Rejoignez-nous pour relever le défi !" />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et stimulante pour tous les niveaux. Rejoignez-nous pour relever le défi !" />
 '''
