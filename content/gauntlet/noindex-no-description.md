@@ -7,6 +7,7 @@ raw_head = '''
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <meta name="robots" content="noindex, follow" />
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru : cas noindex sans description. Cette page de fixture provoque une seule anomalie SEO ciblée." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
