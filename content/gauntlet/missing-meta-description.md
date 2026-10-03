@@ -12,6 +12,7 @@ raw_head = '''
   <meta property="og:description" content="Page du parcours d'obstacles Noyaru traitant le cas missing meta description." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta name="description" content="Page du parcours d'obstacles Noyaru dédiée au cas missing meta description : découvrez comment détecter et corriger l'absence de balise description." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
