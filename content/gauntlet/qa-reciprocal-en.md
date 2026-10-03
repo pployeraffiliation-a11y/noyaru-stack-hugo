@@ -17,6 +17,7 @@ raw_head = '''
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-en/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-en/" />
+  <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-fr/" />
   <link rel="alternate" hreflang="de" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-de/" />
   <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-fr/" />
 '''
