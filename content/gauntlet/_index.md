@@ -46,3 +46,7 @@ Chaque page ci-dessous porte une anomalie et une seule.
 - [html-lang-invalid](/gauntlet/html-lang-invalid/)
 - [noindex-no-description](/gauntlet/noindex-no-description/)
 - [noindex-long](/gauntlet/noindex-long/)
+
+- [qa-reciprocal-fr](/gauntlet/qa-reciprocal-fr/)
+- [qa-reciprocal-en](/gauntlet/qa-reciprocal-en/)
+- [qa-reciprocal-de](/gauntlet/qa-reciprocal-de/)
