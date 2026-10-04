@@ -5,7 +5,7 @@ html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : css_redirects + page_has_redirected_css — feuille de style chargee depuis une URL qui redirige. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Parcours d'obstacles Noyaru — feuille de style redirigée</title>
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/redirected-css/" />
   <meta property="og:type" content="article" />
