@@ -6,16 +6,16 @@ raw_head = '''
   <!-- FAMILLE VISEE : missing_alt_text — image sans attribut alt. -->
   <meta name="viewport" content="width=device-width" />
   <title>Parcours obstacles Noyaru — test image sans attribut alt</title>
-  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta name="description" content="Page du parcours d'obstacles Noyaru dédiée au cas missing alt : teste la détection des images sans attribut alt pour corriger l'accessibilité et le SEO." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-alt/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours obstacles Noyaru — test image sans attribut alt" />
-  <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta property="og:description" content="Page du parcours d'obstacles Noyaru dédiée au cas missing alt : teste la détection des images sans attribut alt pour corriger l'accessibilité et le SEO." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-alt/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours obstacles Noyaru — test image sans attribut alt" />
-  <meta name="twitter:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta name="twitter:description" content="Page du parcours d'obstacles Noyaru dédiée au cas missing alt : teste la détection des images sans attribut alt pour corriger l'accessibilité et le SEO." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
 raw_body = '''
