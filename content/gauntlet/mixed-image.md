@@ -1,11 +1,11 @@
 +++
 url = "/gauntlet/mixed-image/"
-title = 'Page de test du parcours d obstacles Noyaru'
+title = 'Parcours d obstacles Noyaru — contenu mixte image HTTP'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : https_page_links_to_http_image + https_http_mixed_content — image chargee en http sur une page https. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Parcours d'obstacles Noyaru — contenu mixte image HTTP</title>
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/mixed-image/" />
   <meta property="og:type" content="article" />
