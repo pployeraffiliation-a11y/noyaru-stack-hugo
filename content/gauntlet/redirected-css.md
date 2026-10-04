@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : css_redirects + page_has_redirected_css — feuille de style chargee depuis une URL qui redirige. -->
   <meta name="viewport" content="width=device-width" />
   <title>Parcours d'obstacles Noyaru — feuille de style redirigée</title>
-  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta name="description" content="Page du parcours Noyaru dédiée au cas redirected-css : une feuille de style chargée depuis une URL qui redirige, pour déclencher uniquement cette anomalie." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/redirected-css/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
