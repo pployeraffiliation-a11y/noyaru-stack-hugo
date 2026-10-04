@@ -19,6 +19,7 @@ raw_head = '''
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-en/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-fr/" />
   <link rel="alternate" hreflang="de" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-de/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-en/" />
 '''
 raw_body = '''
 <main><h1>Noyaru English translation validation page</h1><p>Check the English edition of the Noyaru validation guide, with links to its French and German translations and a controlled missing return annotation.</p><p><a href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-fr/">Validation des traductions francaises Noyaru</a></p><p><a href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-en/">Noyaru English translation validation page</a></p><p><a href="https://noyaru-stack-hugo.netlify.app/gauntlet/qa-reciprocal-de/">Noyaru deutsche Uebersetzungen kontrollieren</a></p><p><a href="/">Noyaru</a></p></main>
