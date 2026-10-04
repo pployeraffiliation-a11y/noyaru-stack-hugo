@@ -6,7 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : https_page_links_to_http_javascript — script charge en http. -->
   <meta name="viewport" content="width=device-width" />
   <title>Parcours d'obstacles Noyaru — script mixte HTTP/HTTPS</title>
-  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta name="description" content="Parcours mixed-js : seul le chargement d'un script en HTTP déclenche une anomalie, tous les autres éléments SEO de la page restant conformes." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/mixed-js/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
