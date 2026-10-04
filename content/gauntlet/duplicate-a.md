@@ -6,16 +6,16 @@ raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-b : meme titre ET meme description. -->
   <meta name="viewport" content="width=device-width" />
   <title>Parcours obstacles duplicate-a : titre duplique corrige</title>
-  <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="description" content="Page duplicate-a du parcours d'obstacles Noyaru : cette page est jumelle de duplicate-b et partage son titre pour exercer la detection des doublons de meta." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours obstacles duplicate-a : titre duplique corrige" />
-  <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta property="og:description" content="Page duplicate-a du parcours d'obstacles Noyaru : cette page est jumelle de duplicate-b et partage son titre pour exercer la detection des doublons de meta." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours obstacles duplicate-a : titre duplique corrige" />
-  <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="twitter:description" content="Page duplicate-a du parcours d'obstacles Noyaru : cette page est jumelle de duplicate-b et partage son titre pour exercer la detection des doublons de meta." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
 raw_body = '''
