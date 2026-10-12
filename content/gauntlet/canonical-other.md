@@ -7,7 +7,7 @@ raw_head = '''
   <meta name="viewport" content="width=device-width" />
   <title>Parcours Noyaru : canonical other</title>
   <meta name="description" content="Page « canonical other » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-  <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/canonical-relay/" />
+  <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-h1/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : canonical other" />
   <meta property="og:description" content="Page « canonical other » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
