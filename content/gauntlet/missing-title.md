@@ -1,6 +1,6 @@
 +++
 url = "/gauntlet/missing-title/"
-title = 'Parcours'
+title = 'Parcours Noyaru : test anomalie balise title vide ou absente'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : missing_title — aucun titre declare. -->
