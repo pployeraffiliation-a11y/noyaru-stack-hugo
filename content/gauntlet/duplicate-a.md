@@ -1,20 +1,20 @@
 +++
 url = "/gauntlet/duplicate-a/"
-title = 'Deux pages qui portent exactement le meme titre pour le test'
+title = "Parcours d'obstacles Noyaru — page duplicate-a unique"
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-b : meme titre ET meme description. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Parcours d'obstacles Noyaru — page duplicate-a unique</title>
   <meta name="description" content="Page duplicate-a du parcours d'obstacles : cette page jumelle de duplicate-b est conçue pour déclencher la détection des meta descriptions dupliquées." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+  <meta property="og:title" content="Parcours d'obstacles Noyaru — page duplicate-a unique" />
   <meta property="og:description" content="Page duplicate-a du parcours d'obstacles : cette page jumelle de duplicate-b est conçue pour déclencher la détection des meta descriptions dupliquées." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-a/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+  <meta name="twitter:title" content="Parcours d'obstacles Noyaru — page duplicate-a unique" />
   <meta name="twitter:description" content="Page duplicate-a du parcours d'obstacles : cette page jumelle de duplicate-b est conçue pour déclencher la détection des meta descriptions dupliquées." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
