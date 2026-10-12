@@ -6,7 +6,6 @@ raw_head = '''
   <!-- FAMILLE VISEE : multiple_meta_description_tags — deux meta description. -->
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
-  <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <meta name="description" content="Page du parcours d'obstacles Noyaru dédiée au cas multiple meta description tags : deux balises description pour tester la détection de cette anomalie SEO." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/multiple-meta-description-tags/" />
   <meta property="og:type" content="article" />
