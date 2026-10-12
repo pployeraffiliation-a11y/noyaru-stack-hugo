@@ -8,6 +8,7 @@ raw_head = '''
   <meta name="viewport" content="width=device-width" />
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-title/" />
+  <meta property="og:title" content="Parcours d'obstacles Noyaru — page sans titre déclaré" />
   <meta property="og:type" content="article" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-title/" />
