@@ -5,16 +5,16 @@ html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : double_slash_in_url — lien interne avec une double barre. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Parcours Noyaru : double slash dans les liens internes</title>
   <meta name="description" content="Page du parcours d'obstacles dediee au double slash : un lien interne contient une double barre oblique, declenchant uniquement la famille double_slash_in_url" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Parcours Noyaru : double slash dans les liens internes" />
   <meta property="og:description" content="Page du parcours d'obstacles dediee au double slash : un lien interne contient une double barre oblique, declenchant uniquement la famille double_slash_in_url au crawl." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/double-slash/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Parcours Noyaru : double slash dans les liens internes" />
   <meta name="twitter:description" content="Page du parcours d'obstacles dediee au double slash : un lien interne contient une double barre oblique, declenchant uniquement la famille double_slash_in_url au crawl." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
