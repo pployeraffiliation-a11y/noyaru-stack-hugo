@@ -14,6 +14,7 @@ raw_head = '''
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta name="description" content="Cette page du parcours traite le cas « missing meta description ». Elle appartient au parcours d'obstacles de la fixture et sert à provoquer une anomalie et" />
 '''
 raw_body = '''
   <h1>Parcours d'obstacles : missing meta description</h1>
