@@ -13,6 +13,7 @@ raw_head = '''
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta property="og:description" content="Page noindex du parcours d'obstacles Noyaru : elle est conçue pour déclencher uniquement l'anomalie d'absence de meta description lors du crawl." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
