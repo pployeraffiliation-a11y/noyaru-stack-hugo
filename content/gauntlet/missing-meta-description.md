@@ -11,6 +11,7 @@ raw_head = '''
   <meta property="og:title" content="Parcours Noyaru : missing meta description" />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-meta-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
+  <meta property="og:description" content="Page du parcours d'obstacles dédiée à l'anomalie meta description manquante : elle en était dépourvue pour déclencher la famille missing meta description." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
