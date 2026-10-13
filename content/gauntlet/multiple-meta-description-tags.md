@@ -7,7 +7,6 @@ raw_head = '''
   <meta name="viewport" content="width=device-width" />
   <title>Parcours Noyaru : multiple meta description tags</title>
   <meta name="description" content="Page « multiple meta description tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
-  <meta name="description" content="Page du parcours d'obstacles Noyaru dédiée au cas multiple meta description tags : une seule anomalie est déclenchée, pour isoler cette famille de test." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/multiple-meta-description-tags/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : multiple meta description tags" />
