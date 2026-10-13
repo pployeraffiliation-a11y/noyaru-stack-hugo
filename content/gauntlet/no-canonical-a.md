@@ -4,6 +4,7 @@ title = 'Deux pages jumelles sans canonical declare'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_pages_without_canonical — jumelle de no-canonical-b, aucune des deux ne declare de canonical. -->
+  <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages jumelles sans canonical declare</title>
   <meta name="description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
