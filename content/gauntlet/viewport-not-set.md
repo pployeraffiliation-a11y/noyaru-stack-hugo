@@ -6,6 +6,7 @@ raw_head = '''
   <!-- FAMILLE VISEE : viewport_not_set — aucune meta viewport. -->
   <title>Parcours Noyaru : viewport not set</title>
   <meta name="description" content="Page « viewport not set » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/viewport-not-set/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : viewport not set" />
