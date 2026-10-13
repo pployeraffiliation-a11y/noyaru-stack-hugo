@@ -14,6 +14,7 @@ raw_head = '''
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/missing-title/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Parcours Noyaru : page sans titre declaree au depart" />
   <meta name="twitter:description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
