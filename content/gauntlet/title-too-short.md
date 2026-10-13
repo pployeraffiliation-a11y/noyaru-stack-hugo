@@ -5,7 +5,7 @@ html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : title_too_short — titre de moins de 15 caracteres. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Test</title>
+  <title>Test complet et pratique pour évaluer vos compétences en 2025</title>
   <meta name="description" content="Page « title too short » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/title-too-short/" />
   <meta property="og:type" content="article" />
