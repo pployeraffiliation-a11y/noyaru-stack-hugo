@@ -1,20 +1,20 @@
 +++
 url = "/gauntlet/no-canonical-a/"
-title = 'Deux pages jumelles sans canonical declare'
+title = 'Parcours Noyaru : page jumelle A sans canonical'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_pages_without_canonical — jumelle de no-canonical-b, aucune des deux ne declare de canonical. -->
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages jumelles sans canonical declare</title>
+  <title>Parcours Noyaru : page jumelle A sans canonical</title>
   <meta name="description" content="Page A des jumelles sans canonical : contenu identique a la page B, aucune directive canonical, pour declencher la detection des pages dupliquees." />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
+  <meta property="og:title" content="Parcours Noyaru : page jumelle A sans canonical" />
   <meta property="og:description" content="Page A des jumelles sans canonical : contenu identique a la page B, aucune directive canonical, pour declencher la detection des pages dupliquees." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/no-canonical-a/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Deux pages jumelles sans canonical declare" />
+  <meta name="twitter:title" content="Parcours Noyaru : page jumelle A sans canonical" />
   <meta name="twitter:description" content="Page A des jumelles sans canonical : contenu identique a la page B, aucune directive canonical, pour declencher la detection des pages dupliquees." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
