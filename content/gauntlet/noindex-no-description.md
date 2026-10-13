@@ -11,6 +11,7 @@ raw_head = '''
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : noindex no description" />
+  <meta property="og:description" content="Page noindex du parcours d'obstacles : elle ne declarait aucune meta description, afin de declencher uniquement la famille missing_meta_description." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/noindex-no-description/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
