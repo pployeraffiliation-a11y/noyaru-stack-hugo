@@ -10,6 +10,7 @@ raw_head = '''
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-to-non-canonical/" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-hugo.netlify.app/gauntlet/hreflang-no-html-lang/" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : hreflang no html lang" />
   <meta property="og:description" content="Page « hreflang no html lang » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
