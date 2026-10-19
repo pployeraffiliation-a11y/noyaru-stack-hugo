@@ -17,7 +17,7 @@ raw_head = '''
   <meta name="twitter:title" content="Parcours Noyaru : mixed css" />
   <meta name="twitter:description" content="Page « mixed css » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
-  <link rel="stylesheet" href="http://noyaru-stack-hugo.netlify.app/style.css" />
+  <link rel="stylesheet" href="https://noyaru-stack-hugo.netlify.app/style.css" />
 '''
 raw_body = '''
   <h1>Parcours d'obstacles : mixed css</h1>
