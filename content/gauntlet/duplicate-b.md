@@ -1,20 +1,20 @@
 +++
 url = "/gauntlet/duplicate-b/"
-title = 'Deux pages qui portent exactement le meme titre pour le test'
+title = 'Parcours Noyaru : page jumelle duplicate-b pour le test'
 html_attrs = ' lang="fr"'
 raw_head = '''
   <!-- FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions — jumelle de duplicate-a. -->
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Parcours Noyaru : page jumelle duplicate-b pour le test</title>
   <meta name="description" content="Page « duplicate-b » du parcours d'obstacles : variante jumelle de duplicate-a, conçue pour exercer la detection des meta descriptions en double." />
   <link rel="canonical" href="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-b/" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+  <meta property="og:title" content="Parcours Noyaru : page jumelle duplicate-b pour le test" />
   <meta property="og:description" content="Page « duplicate-b » du parcours d'obstacles : variante jumelle de duplicate-a, conçue pour exercer la detection des meta descriptions en double." />
   <meta property="og:url" content="https://noyaru-stack-hugo.netlify.app/gauntlet/duplicate-b/" />
   <meta property="og:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
+  <meta name="twitter:title" content="Parcours Noyaru : page jumelle duplicate-b pour le test" />
   <meta name="twitter:description" content="Page « duplicate-b » du parcours d'obstacles : variante jumelle de duplicate-a, conçue pour exercer la detection des meta descriptions en double." />
   <meta name="twitter:image" content="https://noyaru-stack-hugo.netlify.app/og.png" />
 '''
